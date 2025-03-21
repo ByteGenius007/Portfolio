@@ -13,7 +13,7 @@
 ## 🚀 Установка
 1. Клонируйте репозиторий:
    ```sh
-   git clone https://github.com/yourusername/project-manager-bot.git
+   git clone https://github.com/ByteGenius007/ProjectManagerBot.git
    ```
 2. Перейдите в папку проекта:
    ```sh
